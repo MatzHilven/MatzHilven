@@ -2,7 +2,7 @@
 
 Discord: GetWrecked#5224
 
-![discord](https://discord.c99.nl/widget/theme-4/323345531764080640.png)
+![discord](https://discord.c99.nl/widget/theme-1/323345531764080640.png)
 
 
 
