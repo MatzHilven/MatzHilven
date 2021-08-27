@@ -1,5 +1,5 @@
 ## Hey there 👋
-I'm Matz, a Software Engineer and Java/Python Developer. I mainly write spigot/bungee plugins and in my free time software.
+I'm Matz, a Software Engineer and Java/Python Developer. I mainly write spigot/bungee plugins and in my free time software. I don't have a lot of public repositories since I mainly use github for private projects.
 
 ## Contact me
 
