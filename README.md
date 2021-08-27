@@ -9,3 +9,10 @@ Discord: GetWrecked#5224
 
 ## Some stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatzHilven&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/MatzHilven">
+  <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=MatzHilven&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=My GitHub Stats" />
+</a>
+<a href="https://github.com/MatzHilven">
+  <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatzHilven&theme=dracula&include_all_commits=true" />
+</a>
