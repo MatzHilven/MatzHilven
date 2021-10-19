@@ -37,3 +37,4 @@ Discord: GetWrecked#5224
 <a href="https://github.com/MatzHilven">
   <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatzHilven&theme=dracula&include_all_commits=true" />
 </a>
+<a href="https://wakatime.com/@df26aacf-7f05-44af-a330-7c486e842ec6"><img src="https://wakatime.com/badge/user/df26aacf-7f05-44af-a330-7c486e842ec6.svg" alt="Total time coded since Aug 8 2021" /></a>
