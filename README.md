@@ -2,6 +2,7 @@
 I'm Matz, a Software Engineer and Java/Python Developer. I mainly write spigot/bungee plugins and in my free time software. I don't have a lot of public repositories since I mainly use github for private projects.
 
 <h2> Languages and Tools </h2>
+Some of the languages and tools I'm familiar with:
 <h3> Languages </h3>
 <p align="left">
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
