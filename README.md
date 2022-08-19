@@ -1,5 +1,5 @@
 <h2> Hey there 👋 </h2>
-I'm Matz, a Software Engineer and Java/Python Developer. I mainly write spigot/bungee plugins and in my free time software. I don't have a lot of public repositories since I mainly use github for private projects.
+I'm Matz, a Software Engineer and Java/Python Developer. I mainly make Minecraft Plugins (Spigot, Bungeecord, ...), Minecraft Mods, Minecraft Clients & Discord Bots. I currently do not have a lot of public repositories since I mainly use github for private projects & private organizations.
 
 <h2> Languages and Tools </h2>
 Some of the languages and tools I'm familiar with:
