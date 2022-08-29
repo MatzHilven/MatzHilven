@@ -25,5 +25,5 @@ Some of the languages and tools I'm familiar with:
   <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatzHilven&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="MatzHilven's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatzHilven&layout=compact&theme=onedark&hide_border=true" /> |
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatzHilven&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="MatzHilven's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatzHilven&layout=compact&theme=dracula&hide_border=true" /> |
 | ------------- | ------------- |
