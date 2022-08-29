@@ -28,20 +28,30 @@ Some of the languages and tools I'm familiar with
  <h4>If you'd like a plugin made, I can create <b>almost anything</b> you want!</h4>
 Some of my latest projects include:
 
-<code>
-- AutoFarmers (E.G. https://github.com/MatzHilven/ShatteredSeeds)
-- Numerous Prison Cores (Custom Enchantments, Custom Economy Systems, Private Mines, Custom Plots, ...)
-- Lobby Cores (Chat, Parkour, Warps, Proxy Support)
-- Minigames/Events (KOTH, KitPvP, BedWars, Skywars, For custom minigames: slide me a DM with your ideas :)) (https://github.com/MatzHilven/WAR)
-- Practice Core (Different Gamemodes, Custom kits, Custom ranks + ELO, Custom Arenas)
-- Fully Custom Staff Utility System (Player Management System, Pre-Made Punishments (In Configuration Files), Custom Punishments, Connections, Linked Accounts, Custom Punishing Menus, Alerts, Punishment Roll Back, Account Limits & much more!)
-- Faction Cores (E.G. https://github.com/MatzHilven/EmpireFactions)
-- Skyblock Cores
-- Housing Cores
-- Prison Cores (E.G. https://github.com/MatzHilven/SlamCore)
-...
-<code>
+
+<code> - AutoFarmers (E.G. https://github.com/MatzHilven/ShatteredSeeds)</code>
+
+<code>- Numerous Prison Cores (Custom Enchantments, Custom Economy Systems, Private Mines, Custom Plots, ...)</code>
+
+<code>- Lobby Cores (Chat, Parkour, Warps, Proxy Support)</code>
+
+<code>- Minigames/Events (KOTH, KitPvP, BedWars, Skywars, For custom minigames: slide me a DM with your ideas :)) (https://github.com/MatzHilven/WAR)</code>
+
+<code>- Practice Core (Different Gamemodes, Custom kits, Custom ranks + ELO, Custom Arenas)</code>
+
+<code>- Fully Custom Staff Utility System (Player Management System, Pre-Made Punishments (In Configuration Files), Custom Punishments, Connections, Linked Accounts, Custom Punishing Menus, Alerts, Punishment Roll Back, Account Limits & much more!)</code>
+
+<code>- Faction Cores (E.G. https://github.com/MatzHilven/EmpireFactions)</code>
+
+<code>- Skyblock Cores</code>
+
+<code>- Housing Cores</code>
+
+<code>- Prison Cores (E.G. https://github.com/MatzHilven/SlamCore)</code>
+
+<code>...</code>
   
+If you're interested in my services or have a question about a previous project of mine, feel free to slide me a DM on discord (<i>GetWrecked#5224</i>)!
   
   | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatzHilven&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="MatzHilven's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatzHilven&layout=compact&theme=dracula&hide_border=true" /> |
 | ------------- | ------------- |
