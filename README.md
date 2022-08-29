@@ -2,7 +2,7 @@
 I'm Matz, a Java/Python/Web Developer. I mainly make Minecraft Plugins (Spigot, Bungeecord, ...), Minecraft Mods, Minecraft Clients & Discord Bots. I currently do not have a lot of public repositories since I mainly use github for private projects & private organizations.
 
 <h2> Languages and Tools </h2>
-Some of the languages and tools I'm familiar with:
+Some of the languages and tools I'm familiar with
 <h3> Languages </h3>
 <p align="left">
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -24,6 +24,24 @@ Some of the languages and tools I'm familiar with:
      <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  
+ <h4>If you'd like a plugin made, I can create <b>almost anything</b> you want!</h4>
+Some of my latest projects include:
+
+<code>
+- AutoFarmers (E.G. https://github.com/MatzHilven/ShatteredSeeds)
+- Numerous Prison Cores (Custom Enchantments, Custom Economy Systems, Private Mines, Custom Plots, ...)
+- Lobby Cores (Chat, Parkour, Warps, Proxy Support)
+- Minigames/Events (KOTH, KitPvP, BedWars, Skywars, For custom minigames: slide me a DM with your ideas :)) (https://github.com/MatzHilven/WAR)
+- Practice Core (Different Gamemodes, Custom kits, Custom ranks + ELO, Custom Arenas)
+- Fully Custom Staff Utility System (Player Management System, Pre-Made Punishments (In Configuration Files), Custom Punishments, Connections, Linked Accounts, Custom Punishing Menus, Alerts, Punishment Roll Back, Account Limits & much more!)
+- Faction Cores (E.G. https://github.com/MatzHilven/EmpireFactions)
+- Skyblock Cores
+- Housing Cores
+- Prison Cores (E.G. https://github.com/MatzHilven/SlamCore)
+...
+<code>
+  
   
   | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatzHilven&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="MatzHilven's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatzHilven&layout=compact&theme=dracula&hide_border=true" /> |
 | ------------- | ------------- |
