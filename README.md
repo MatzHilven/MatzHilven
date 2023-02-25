@@ -164,7 +164,6 @@ I'm Matz, a Java/Python/Web Developer. I mainly make Minecraft Plugins (Spigot, 
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
              width="40"/>
     </a>
-
     <a href="https://postman.com" rel="noreferrer" target="_blank">
         <img alt="postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
              width="40"/>
