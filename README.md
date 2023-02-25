@@ -35,12 +35,6 @@ I'm Matz, a Java/Python/Web Developer. I mainly make Minecraft Plugins (Spigot, 
         <img alt="kotlin" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
              width="40"/>
     </a>
-
-    <a href="https://getbootstrap.com" rel="noreferrer" target="_blank">
-        <img alt="bootstrap" height="40"
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-             width="40"/>
-    </a>
     <a href="https://www.python.org" rel="noreferrer" target="_blank">
         <img alt="python" height="40"
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -151,7 +145,6 @@ I'm Matz, a Java/Python/Web Developer. I mainly make Minecraft Plugins (Spigot, 
     <a href="https://firebase.google.com/" rel="noreferrer" target="_blank">
         <img alt="firebase" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
     </a>
-
     <a href="https://git-scm.com/" rel="noreferrer" target="_blank">
         <img alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
     </a>
@@ -171,15 +164,14 @@ I'm Matz, a Java/Python/Web Developer. I mainly make Minecraft Plugins (Spigot, 
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
              width="40"/>
     </a>
-    
+
     <a href="https://postman.com" rel="noreferrer" target="_blank">
         <img alt="postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
              width="40"/>
     </a>
 </p>
-
   
- <h4>If you'd like a Minecraft Plugin made, I can create <b>almost anything</b> you want!</h4>
+<h4>If you'd like a Minecraft Plugin, Discord Bot or Website made, I can create <b>almost anything</b> you want!</h4>
 Some of my latest projects include:
 
 
