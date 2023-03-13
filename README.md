@@ -53,9 +53,12 @@ I'm Matz, a Java/Python/Web Developer. I mainly make Minecraft Plugins (Spigot, 
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
              width="40"/>
     </a>
+     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    </a>
 </p>
 
-<h3 align="left">Backend:</h3>
+<h3 align="left">Backend Development:</h3>
 <p align="left">
     <a href="https://graphql.org" rel="noreferrer" target="_blank">
         <img alt="graphql" height="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
@@ -79,7 +82,7 @@ I'm Matz, a Java/Python/Web Developer. I mainly make Minecraft Plugins (Spigot, 
     </a>
 </p>
 
-<h3 align="left">Frontend:</h3>
+<h3 align="left">Frontend Development:</h3>
 <p>
     <a href="https://jekyllrb.com/" rel="noreferrer" target="_blank">
         <img alt="jekyll" height="40" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40"/>
