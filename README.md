@@ -1,6 +1,12 @@
 <h2> Hey there 👋 </h2>
 I'm Matz, a Java/Full Stack Web Developer. I mainly make Minecraft Plugins (Spigot, Bungeecord, ...), Minecraft Mods, Minecraft Clients & Discord Bots. I currently do not have a lot of public repositories since I mainly use github for private projects & private organizations.
 
+<h3> Portfolios </h3>
+<ul>
+    <li><a target="_blank" href="https://builtbybit.com/threads/cheap-high-quality-full-stack-development.717843/">Web Development (Frontend, Backend, Full Stack)</a></li>
+    <li><a target="_blank" href="https://portfolio.matzhilven.com">Minecraft Development</a></li>
+</ul>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" rel="noreferrer" target="_blank">
