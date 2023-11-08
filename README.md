@@ -37,6 +37,11 @@ I'm Matz, a Java/Full Stack Web Developer. I mainly make Minecraft Plugins (Spig
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
              width="40"/>
     </a>
+    <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank">
+        <img alt="typescript" height="40"
+             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+             width="40"/>
+    </a>
     <a href="https://kotlinlang.org" rel="noreferrer" target="_blank">
         <img alt="kotlin" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
              width="40"/>
@@ -53,11 +58,6 @@ I'm Matz, a Java/Full Stack Web Developer. I mainly make Minecraft Plugins (Spig
     <a href="https://www.rust-lang.org" rel="noreferrer" target="_blank">
         <img alt="rust" height="40"
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank">
-        <img alt="typescript" height="40"
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-             width="40"/>
     </a>
      <a href="https://golang.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
@@ -85,6 +85,9 @@ I'm Matz, a Java/Full Stack Web Developer. I mainly make Minecraft Plugins (Spig
     <a href="https://flask.palletsprojects.com/" rel="noreferrer" target="_blank">
         <img alt="flask" height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
              width="40"/>
+    </a>
+    <a href="https://actix.rs/" rel="noreferrer" target="_blank">
+        <img alt="flask" height="40" src="https://actix.rs/img/logo-icon.png" width="40"/>
     </a>
 </p>
 
